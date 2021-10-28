@@ -1,0 +1,809 @@
+ALL	sentiment	NO literature	sentiment		ALL - negative	ALL - positive	NO - negative	NO - positive
+errant	0	errant	0		399	319	426	382
+chaman	0	ghetto	0					
+ghetto	0	païen	0					
+mépriseras	0	renégat	0					
+vagabond	0	imposteur	0					
+salira	0	diable	0					
+étrangleur	0	mentit	0					
+raillèrent	0	vagabond	0					
+renégate	0	enterrerait	0					
+évadait	0	désolerait	0					
+infidèle	0	sombrement	0					
+maltraites	0	sectaire	0					
+imposteur	0	persécutes	0					
+vieillirait	0	enfermerais	0					
+incrédule	0	évadait	0					
+persécuta	0	agenouillera	0					
+enfermerais	0	tairait	0					
+trafiquant	0	maudirais	0					
+hérétique	0	hâterais	0					
+indigneraient	0	mendiant	0					
+traître	0	maudirent	0					
+décrièrent	0	regimbait	0					
+enlèveras	0	attraperez	0					
+nieras	0	cireur	0					
+implorerait	0	gourou	0					
+suicidait	0	trafiquant	0					
+importunerait	0	aphones	0					
+rançonne	0	rancunier	0					
+foutaise	0	misérable	0					
+ébranlerai	0	échappes	0					
+crèverait	0	étrangleur	0					
+rancunier	0	paysan	0					
+mentirait	0	indignerait	0					
+vantardises	0	traître	0					
+subissiez	0	trahirez	0					
+souillerez	0	soupçonnerais	0					
+exterminerai	0	voleur	0					
+poignardait	0	saisirais	0					
+profanera	0	casserons	0					
+prostituera	0	mendieront	0					
+maltraitait	0	rétractera	0					
+damnerait	0	attraperait	0					
+charnel	0	maudirez	0					
+brouillait	0	nègre	0					
+rétracterait	0	humilierai	0					
+voleur	0	plaideuse	0					
+bredouilla	0	hérétique	0					
+opprima	0	exhibait	0					
+déchirerais	0	enlèveras	0					
+périras	0	cracha	0					
+exterminait	0	toquer	0					
+persécutera	0	ensevelirez	0					
+renégats	0	nieras	0					
+bougonnait	0	espion	0					
+attraperez	0	appréhendèrent	0					
+paillardes	0	séchai	0					
+exhumera	0	volerez	0					
+tromperas	0	regorgea	0					
+ridiculisa	0	renonceriez	0					
+appréhendai	0	prétendriez	0					
+insultait	0	exterminaient	0					
+malavisé	0	trahirons	0					
+maudirent	0	déserterai	0					
+poursuivras	0	déshonorera	0					
+rétractera	0	crias	0					
+mendie	0	obligerons	0					
+prétendriez	0	soupirera	0					
+rasera	0	bredouilla	0					
+maltraiterait	0	souillerez	0					
+humilierai	0	dissimules	0					
+imiterions	0	ébranlerai	0					
+affronterais	0	séquestra	0					
+oublieur	0	exigerais	0					
+trancheront	0	prostitua	0					
+gourou	0	froissai	0					
+abaisserais	0	disséquait	0					
+clamèrent	0	ôteras	0					
+exterminerait	0	profanait	0					
+effémine	0	entêta	0					
+dégradera	0	gainas	0					
+brisions	0	déguiserait	0					
+pendrai	0	imiterions	0					
+pourchassa	0	anéantirai	0					
+mendiais	0	séquestrait	0					
+insultiez	0	supprimiez	0					
+prétendis	0	avare	0					
+obscurcirait	0	ruinerez	0					
+maudirez	0	argumentait	0					
+impénitent	0	épuiserais	0					
+sorcière	0	impénitent	0					
+mépriserait	0	risquerons	0					
+insulterait	0	puniraient	0					
+humiliera	0	bancale	0					
+éconduisit	0	apostat	0					
+charcuter	0	douteras	0					
+abandonneras	0	pourchassa	0					
+purgerait	0	arrêtas	0					
+gitanes	0	entacherait	0					
+humiliais	0	rasera	0					
+surprendraient	0	désavoueront	0					
+affola	0	bayou	0					
+détestera	0	méprisai	0					
+sectaire	0	rétracterait	0					
+racoleur	0	plaiderons	0					
+désavoueront	0	trahirait	0					
+regimbait	0	presserais	0					
+frappas	0	pauvre	0					
+maltraite	0	causeras	0					
+diffères	0	brouillait	0					
+disloquait	0	mentiez	0					
+inopérant	0	dépareille	0					
+niâmes	0	offensiez	0					
+fléchirait	0	païens	0					
+saoul	0	arracherons	0					
+combatif	0	évasif	0					
+taillader	0	déroberas	0					
+charabias	0	briseras	0					
+complut	0	écartela	0					
+damnait	0	chasserais	0					
+rétracterai	0	obscurcirait	0					
+tairait	0	rattraperons	0					
+plaideuse	0	obligerais	0					
+résistions	0	réfutera	0					
+rétrograderait	0	enlèverais	0					
+ruinerais	0	supposerais	0					
+traqua	0	souillerai	0					
+soupirera	0	maltraite	0					
+épuiserais	0	sidérait	0					
+fanatismes	0	tourmentera	0					
+empêcherions	0	endette	0					
+endette	0	railla	0					
+dénonçais	0	exhumera	0					
+enseveliront	0	méchant	0					
+crèvera	0	crèverait	0					
+supplieront	0	rejetterai	0					
+contrebandier	0	décriait	0					
+diable	0	déferai	0					
+désolais	0	traîtrise	0					
+détourniez	0	effémine	0					
+dédaignai	0	damnera	0					
+répugnais	0	défigurèrent	0					
+anéantirai	0	repousseriez	0					
+brûlerez	0	dévoilerai	0					
+épuiserai	0	barricadait	0					
+obligerais	0	frapperas	0					
+gémiraient	0	soupçonnerait	0					
+feindrait	0	tondait	0					
+éloignerions	0	pousseras	0					
+gainas	0	pervertissait	0					
+regimba	0	ensevelirons	0					
+critiquerait	0	détiendrait	0					
+arracheras	0	athée	0					
+évince	0	inquiéterais	0					
+poursuivrez	0	mépriserais	0					
+dépareille	0	préméditait	0					
+grincera	0	réprimera	0					
+désolerait	0	oseras	0					
+déposséda	0	retarderai	0					
+abrutissait	0	frustrait	0					
+risquais	0	insistiez	0					
+souffriras	0	escroquer	0					
+dérobiez	0	ermite	0					
+enterrerez	0	regimba	0					
+presserais	0	empêcheras	0					
+pilleur	0	désapprouverait	0					
+rejetâmes	0	mendie	0					
+dissimules	0	arracherais	0					
+ôteras	0	irlandais	0					
+bouscula	0	fléchirait	0					
+sauteraient	0	chancelles	0					
+tondrait	0	écumeur	0					
+bazars	0	foutaise	0					
+offensiez	0	éconduisit	0					
+assassinerait	0	déferez	0					
+usurperait	0	reporterai	0					
+possédai	0	évince	0					
+dénuer	0	violerai	0					
+impénitente	0	composions	0					
+déroberai	0	ergoteur	0					
+répéteras	0	parjurer	0					
+enterrerons	0	infidèles	0					
+patientait	0	percerai	0					
+infaisable	0	insulterait	0					
+escroc	0	exterminerai	0					
+fourvoya	0	humiliais	0					
+congédierait	0	séparerez	0					
+aphones	0	radotait	0					
+confisquerait	0	terrifièrent	0					
+désespérerai	0	crieraient	0					
+tourmentera	0	humiliera	0					
+souteneur	0	exposerez	0					
+implorerai	0	haïrait	0					
+exhibait	0	maudiraient	0					
+profanaient	0	vantardises	0					
+intransigeant	0	enfermerait	0					
+abaissais	0	embrouillèrent	0					
+babilla	0	pendrai	0					
+oppresseur	0	méfiant	0					
+trébuchai	0	usurperait	0					
+dénouerait	0	beugla	0					
+inculpait	0	nias	0					
+trahirons	0	bête	0					
+païenne	0	dissuadait	0					
+ignorant	0	lesbiennes	0					
+cacherait	0	radotage	0					
+pourchassèrent	0	avortaient	0					
+saisirais	0	plaideur	0					
+renégat	0	prophète	1					
+païen	0	polonais	1					
+proxénète	0	marchand	1					
+poignarderai	0	prêteriez	1					
+espion	0	patriarche	1					
+crachera	0	éclaircirons	1					
+esclave	0	illustrerait	1					
+nègre	0	restaurai	1					
+intercédera	0	symbolisa	1					
+rejetiez	0	prophétisaient	1					
+maltraitera	0	garantirai	1					
+braillait	0	banquier	1					
+toussai	0	offrirez	1					
+gaspilleur	0	calmement	1					
+déshonorera	0	penserais	1					
+persécutes	0	surnommaient	1					
+mendiant	0	peuple	1					
+renonceras	0	orthodoxe	1					
+traîtrise	0	adorerait	1					
+captif	0	gouverneras	1					
+fondrai	0	déclarerai	1					
+misérable	0	prêchiez	1					
+cacheriez	0	proclamais	1					
+espionnait	0	subventionnait	1					
+enterrerait	0	prééminente	1					
+calomnièrent	0	fanatique	1					
+trahiras	0	vénères	1					
+brûliez	0	vouais	1					
+hâterais	0	enrichirai	1					
+picolas	0	absoudrez	1					
+mentiez	0	galopai	1					
+tuâtes	0	infusait	1					
+rejetterai	0	prophétesse	1					
+agenouillera	0	recomptait	1					
+attraperait	0	débiterait	1					
+satané	0	adoreraient	1					
+humiliai	0	vénérais	1					
+traîtrises	0	foulerait	1					
+ensevelirez	0	incarnait	1					
+taillerait	0	préviendrons	1					
+mentit	0	affirmes	1					
+prostitua	0	bénissiez	1					
+crieras	0	troqua	1					
+ruinerez	0	yeoman	1					
+quittâtes	0	adjoignis	1					
+froissai	0	sanctifieras	1					
+renonceriez	0	soulageraient	1					
+souillera	0	nomade	1					
+éviteriez	0	marcheras	1					
+bridait	0	prédisais	1					
+détesterait	0	imprimerai	1					
+mendieront	0	moine	1					
+tracassant	0	divertirait	1					
+pousseras	0	réinstalla	1					
+fétiche	0	renseigna	1					
+rétorqua	0	interpoler	1					
+ergoteur	0	imams	1					
+sombrement	0	millénaire	1					
+cireur	0	troquait	1					
+pervertira	0	éclairai	1					
+causeras	0	conviendriez	1					
+déshonorerait	0	ingérait	1					
+apostat	0	marierais	1					
+traînerais	0	épouseriez	1					
+maudirais	0	ressusciterai	1					
+baratter	0	voyagerai	1					
+empoignait	0	convaincrait	1					
+courbatu	0	démos	1					
+profanerait	0	fervent	1					
+trembleriez	0	accompagniez	1					
+ignorai	0	prêterais	1					
+soupçonneriez	0	achèterait	1					
+maudiras	0	ressemblerez	1					
+réprimera	0	biblique	1					
+apostasie	0	popularisait	1					
+réfuterait	0	disséminait	1					
+radotes	0	refaisait	1					
+poignarderait	0	gouverniez	1					
+arrachas	0	familiarisèrent	1					
+perdîtes	0	praticienne	1					
+détruiras	0	proclamerais	1					
+revendit	0	cuirait	1					
+échappes	0	commerçant	1					
+maudirait	0	revêtirait	1					
+empêchions	0	tenteras	1					
+rabaisserait	0	livreras	1					
+miteux	0	armeraient	1					
+élingue	0	offriras	1					
+insurgeait	0	rachèterai	1					
+sorcier	0	qualifièrent	1					
+abhorrait	0	réfléchiras	1					
+déferez	0	rêverait	1					
+martyrisaient	0	achèveras	1					
+déguiserait	0	ressemblerais	1					
+bourreau	0	pratiquiez	1					
+plaiderons	0	grimpera	1					
+désapprouverait	0	encaissera	1					
+sépariez	0	embrassiez	1					
+broiera	0	laverait	1					
+préméditait	0	prêcherai	1					
+coagulait	0	compromettrais	1					
+nieraient	0	apaiserai	1					
+défaillaient	0	empocha	1					
+écumeur	0	acheteuse	1					
+emprisonnera	0	transcripteur	1					
+menteur	0	assouvissait	1					
+beugla	0	figurerai	1					
+appréhendèrent	0	putative	1					
+haïras	0	reconnaîtras	1					
+évasif	0	secourra	1					
+crèverai	0	restauraient	1					
+battras	0	comprendrai	1					
+indignera	0	désignerais	1					
+argumentait	0	rétrospectivement	1					
+percerai	0	précautionneux	1					
+chancelles	0	adoriez	1					
+clamaient	0	narrai	1					
+colporta	0	persévérions	1					
+casserons	0	achèteriez	1					
+méchant	0	illuminerait	1					
+coucheras	0	affiliaient	1					
+obligerons	0	tétais	1					
+voyou	0	rappelleras	1					
+gémissiez	0	vouerait	1					
+toquades	0	voyageur	1					
+rougiras	0	blagueur	1					
+brûlerons	0	essuierai	1					
+déshonorèrent	0	intéresserait	1					
+radotait	0	révélerez	1					
+résignerez	0	invoquerais	1					
+rattraperons	0	enlumineur	1					
+paysan	0	pardonnais	1					
+encoururent	0	pèlerin	1					
+échouerais	0	tapera	1					
+apostats	0	émir	1					
+contestais	0	admettais	1					
+entacherait	0	professais	1					
+prostituait	0	prophétisait	1					
+souillerai	0	gouvernerez	1					
+dominerez	0	nourriras	1					
+détournerons	0	assuriez	1					
+parias	0	intéressiez	1					
+imprégna	0	rempliriez	1					
+superstitieux	0	hospitalités	1					
+crierez	0	qualifierai	1					
+incommodera	0	souhaiteront	1					
+intolérant	0	ressusciterons	1					
+gênions	0	formerai	1					
+vidas	0	laviez	1					
+rougissions	0	tsarine	1					
+mendia	0	remercierais	1					
+repentirait	0	millionnaire	1					
+guenilles	0	régniez	1					
+punissiez	0	épouseraient	1					
+bouleversera	0	carrent	1					
+railla	0	compromets	1					
+revendra	0	nommeras	1					
+décriait	0	habituais	1					
+risquiez	0	encaissa	1					
+précipiterai	0	gentilhomme	1					
+copierait	0	rassasierai	1					
+infirmait	0	réchauffais	1					
+soupçonnerais	0	fierais	1					
+désobéissait	0	convies	1					
+âne	0	régnerons	1					
+corrective	0	glorifiera	1					
+abdiquerai	0	historien	1					
+niais	0	rachèterait	1					
+casserai	0	étonnai	1					
+volerait	0	révérait	1					
+déroberait	0	rachètera	1					
+séchai	0	communierez	1					
+chenapan	0	appliquerions	1					
+fourbe	0	rassasiera	1					
+détiendrait	0	disposeras	1					
+séparerez	0	vouiez	1					
+suiciderait	0	avérer	1					
+insistiez	0	identifierait	1					
+risquerons	0	amendera	1					
+insolvable	0	édifierait	1					
+feindrai	0	dicteraient	1					
+indécent	0	nourrirons	1					
+désespérera	0	gouvernais	1					
+enfuirais	0	idolâtries	1					
+intercéda	0	cérémoniels	1					
+provoques	0	imaginerais	1					
+bannirait	0	gorgea	1					
+terrifièrent	0	meneur	1					
+bataillaient	0	respecterait	1					
+interromprai	0	tailleur	1					
+entortillait	0	convaincrai	1					
+attraperai	0	encapuchonner	1					
+synagogue	1	chaman	0					
+ancestral	1	exterminait	0					
+entremetteuse	1	raillèrent	0					
+enrichirai	1	persécuta	0					
+fanatique	1	infidèle	0					
+débiterait	1	persécutera	0					
+yeoman	1	renégate	0					
+surnommaient	1	humiliai	0					
+penserais	1	extermineront	0					
+disculpait	1	incrédule	0					
+adhérais	1	mentirait	0					
+rachètes	1	rançonne	0					
+baiserais	1	sorcier	0					
+observeras	1	intercédera	0					
+offriras	1	crachera	0					
+patriarche	1	proxénète	0					
+rétablirai	1	damnerait	0					
+adjoignis	1	maltraites	0					
+magicien	1	renonceras	0					
+afficherait	1	espionnait	0					
+prêteriez	1	périras	0					
+évocateur	1	lesbien	0					
+publiiez	1	esclave	0					
+chevauchera	1	sceptique	0					
+illustrerait	1	braillait	0					
+tenteras	1	calomnièrent	0					
+parerai	1	insultait	0					
+foulerait	1	détestèrent	0					
+étonneras	1	décrièrent	0					
+paganismes	1	ignorai	0					
+visionnaire	1	opprima	0					
+illuminerait	1	profanera	0					
+éclaircirons	1	saoul	0					
+offrirez	1	écraserais	0					
+affirmes	1	maltraitera	0					
+bercerai	1	suicidait	0					
+entreriez	1	offenserai	0					
+adoreraient	1	imposeriez	0					
+calmement	1	contredirait	0					
+avalerai	1	colporta	0					
+préviendrons	1	horrifique	0					
+entreverra	1	persécuteront	0					
+ordonnâtes	1	exode	0					
+convaincras	1	gaspilleur	0					
+précautionneux	1	prétendis	0					
+conviendriez	1	trancheront	0					
+rebâtirait	1	camelote	0					
+divulgua	1	copierait	0					
+ressusciterai	1	charabias	0					
+marcheras	1	ridiculisa	0					
+tournerais	1	salira	0					
+tailleur	1	poignardait	0					
+bâtiras	1	apocalyptique	0					
+aventurier	1	vieillirait	0					
+nomade	1	épuiserai	0					
+personnage	1	clamèrent	0					
+traduirions	1	dépensais	0					
+convaincrai	1	inculpait	0					
+étreindra	1	charcuter	0					
+ressusciterait	1	empêchiez	0					
+fréquentions	1	trahiras	0					
+affirmiez	1	picolas	0					
+parerait	1	déposséda	0					
+acheteuse	1	tâtonna	0					
+amasserez	1	coagulait	0					
+sanctifierez	1	déferait	0					
+introduirais	1	abîmerait	0					
+favoriserai	1	intimiderait	0					
+vendiez	1	purgerait	0					
+ressemblais	1	toquade	0					
+émissaire	1	prostituait	0					
+allaita	1	battras	0					
+excusais	1	détruiras	0					
+croyant	1	paillardes	0					
+troquerait	1	périrez	0					
+augurèrent	1	implorerait	0					
+poète	1	indignera	0					
+avérer	1	fondrai	0					
+disséminait	1	brûliez	0					
+assemblerai	1	taillader	0					
+souscrirai	1	maudiras	0					
+recompte	1	oppresseur	0					
+amasses	1	supprimerais	0					
+conférai	1	indigneraient	0					
+proclamerais	1	périssais	0					
+concevrai	1	complotait	0					
+dressiez	1	empêchions	0					
+tracerais	1	feindrait	0					
+commuent	1	congédiait	0					
+prééminente	1	fétiche	0					
+assisteras	1	exterminera	0					
+entremetteur	1	bourreau	0					
+sortiriez	1	mordrai	0					
+achèveras	1	succombiez	0					
+verseras	1	réprimanda	0					
+adorerais	1	hirsute	0					
+traiterais	1	impénitente	0					
+prophétisèrent	1	racoleur	0					
+pharmacienne	1	sorcière	0					
+absoudrait	1	exécrer	0					
+purifierai	1	dénouai	0					
+généralisaient	1	réfugieraient	0					
+étonnant	1	indignai	0					
+prédomina	1	âne	0					
+recomptait	1	pigeonne	0					
+conveniez	1	pendrons	0					
+disposeras	1	abhorraient	0					
+unissiez	1	répugnais	0					
+redresserait	1	détruirez	0					
+rebâtirai	1	snob	0					
+imagerie	1	vampire	0					
+ingérait	1	consignerait	0					
+convertiraient	1	démoralisait	0					
+armeraient	1	provoques	0					
+déroulai	1	détruirais	0					
+voyageur	1	immobilisait	0					
+empocha	1	toussai	0					
+prouverions	1	ignorant	0					
+susciterai	1	toquades	0					
+surnommait	1	dépasses	0					
+idolâtries	1	néophyte	0					
+consulterais	1	supplierez	0					
+boirait	1	débarrasserez	0					
+rachèteraient	1	emprunteuse	0					
+amorçait	1	déroutant	0					
+prouveriez	1	malavisé	0					
+rassasiera	1	souciera	0					
+révélerez	1	tracassant	0					
+accéderait	1	implorerai	0					
+secourra	1	apostats	0					
+priverais	1	charlatan	0					
+socialiste	1	arrachiez	0					
+munissaient	1	terroriser	0					
+déclarerions	1	tituba	0					
+pardonnais	1	insurgeait	0					
+voyagerai	1	rétorqua	0					
+convertirai	1	déchirerais	0					
+chevauchai	1	sabrait	0					
+assurerais	1	pelait	0					
+tatoue	1	empoignait	0					
+saluerais	1	emprisonnera	0					
+turban	1	dominerez	0					
+moulai	1	supposiez	0					
+absolvaient	1	désolais	0					
+concevras	1	luxures	0					
+stupéfiait	1	brutalise	0					
+dévot	1	supposeriez	0					
+incarnait	1	récalcitrant	0					
+sauveras	1	trahissais	0					
+courtisa	1	espionnages	0					
+exciterai	1	traînerai	0					
+imaginerai	1	fléchirai	0					
+troqua	1	subissiez	0					
+chercheras	1	soupçonneraient	0					
+rappelleriez	1	martyrisait	0					
+lierais	1	tromperas	0					
+veilleras	1	intolérant	0					
+étonneriez	1	punirais	0					
+corroboraient	1	asservira	0					
+coopérait	1	raillerait	0					
+adoriez	1	cupide	0					
+réinstalla	1	plierait	0					
+révolutionnait	1	soupçonneriez	0					
+plaisantions	1	détestiez	0					
+légende	1	enfreindra	0					
+changeras	1	renverserai	0					
+croiras	1	insulta	0					
+civilisait	1	déshonorerait	0					
+prophète	1	synagogue	1					
+philosophe	1	protestant	1					
+polonais	1	prophétisa	1					
+protestant	1	revêtiras	1					
+marchand	1	philosophe	1					
+gouvernerai	1	pélagien	1					
+pélagien	1	deviendras	1					
+suivîtes	1	prêtre	1					
+glorifierait	1	aventurier	1					
+prophétisa	1	cérémoniel	1					
+peuple	1	croyant	1					
+revêtiras	1	gouvernerai	1					
+accommoderai	1	affirmerais	1					
+bénissiez	1	transcrivirent	1					
+prêtre	1	prêtas	1					
+conquerrait	1	rebâtirai	1					
+orthodoxe	1	assouvissaient	1					
+imprimerai	1	rachèteraient	1					
+transcrivirent	1	tracerais	1					
+tendrais	1	observeras	1					
+restaurai	1	rétablirai	1					
+laviez	1	synagogues	1					
+prêteras	1	ressusciterait	1					
+prophétesse	1	allemand	1					
+rajeunirait	1	prêteras	1					
+méditiez	1	rajeunirait	1					
+laverait	1	héritai	1					
+troquait	1	absoudrait	1					
+avaleront	1	chevauchai	1					
+adorera	1	catholique	1					
+prêchiez	1	rimera	1					
+renseignait	1	débitais	1					
+synagogues	1	ouvreur	1					
+vénères	1	prêcherait	1					
+absoudrez	1	détentrice	1					
+encapuchonner	1	farfadet	1					
+prophétisaient	1	renseignait	1					
+adorerait	1	consulterais	1					
+montreras	1	pratiquais	1					
+proclamais	1	ritualiste	1					
+entendîtes	1	approprierait	1					
+transcripteur	1	contribuai	1					
+rachèterait	1	sauveras	1					
+convaincrait	1	stupéfiait	1					
+disperserai	1	devineras	1					
+achèterait	1	accompagnions	1					
+contractais	1	concevras	1					
+divertirait	1	adoras	1					
+prêcherons	1	contrefaisait	1					
+livreras	1	allaita	1					
+allemand	1	recommandiez	1					
+ressemblerez	1	veilleras	1					
+édifierait	1	dégagerai	1					
+signeras	1	baisera	1					
+éclairai	1	réciterait	1					
+nommeras	1	constituions	1					
+supplantera	1	ressemblais	1					
+hausserait	1	connûtes	1					
+carrent	1	prouverions	1					
+biblique	1	présidai	1					
+foulerai	1	conversai	1					
+vénérations	1	bercerai	1					
+catholique	1	courtisa	1					
+gorgea	1	assisteras	1					
+informateur	1	magicien	1					
+professais	1	empruntais	1					
+assouvissaient	1	visiterais	1					
+symbolisa	1	redresserait	1					
+prophètes	1	afficherait	1					
+bâtirez	1	inculquera	1					
+gouverneras	1	disperserai	1					
+prophétisait	1	conseillerions	1					
+transcrivions	1	réconcilieraient	1					
+ouvreur	1	évocateur	1					
+ressentirions	1	bibliques	1					
+protégeras	1	défendis	1					
+convoiteras	1	prêcherais	1					
+souhaiteront	1	recompte	1					
+recommandiez	1	marchandaient	1					
+achèverais	1	adorera	1					
+purifièrent	1	tribu	1					
+garantirai	1	amasserez	1					
+élèveras	1	conquérant	1					
+débitais	1	assimilera	1					
+moine	1	paganismes	1					
+convertira	1	récoltais	1					
+adoras	1	prouveriez	1					
+accommodèrent	1	doctoresse	1					
+démasquait	1	socialiste	1					
+rassasierai	1	sauvegarda	1					
+embaucha	1	interprétai	1					
+transformerons	1	délibérais	1					
+participerons	1	approuveras	1					
+blagueur	1	jubile	1					
+offrîtes	1	réglai	1					
+vouera	1	mêlerais	1					
+constituions	1	ressuscitaient	1					
+épouseriez	1	sauviez	1					
+confieras	1	achèverais	1					
+impudences	1	tenteriez	1					
+devineras	1	imaginerai	1					
+rogna	1	baiserais	1					
+figurerai	1	prononcions	1					
+coupla	1	ressuscitera	1					
+connaîtrais	1	purifièrent	1					
+tenteriez	1	assemblerai	1					
+doctoresse	1	excuserais	1					
+testaient	1	imaginerez	1					
+dispensais	1	toucherions	1					
+sérient	1	expliquerais	1					
+inculquera	1	reconnaîtrait	1					
+infusait	1	ordonnerais	1					
+laverais	1	absolvait	1					
+songerons	1	prophétisèrent	1					
+astrologue	1	représentas	1					
+achèterez	1	divulgua	1					
+chemisière	1	convainquis	1					
+félicitâmes	1	susciterai	1					
+joindras	1	coupla	1					
+inspiras	1	aviserait	1					
+existerais	1	promissoire	1					
+souviendras	1	garçon	1					
+prouveras	1	écrivain	1					
+approprierait	1	offrîtes	1					
+changeur	1	penseur	1					
+hospitalités	1	méditiez	1					
+parleras	1	divinations	1					
+habiterait	1	déroulai	1					
+guérissiez	1	intéresserez	1					
+affirmerais	1	croiras	1					
+familiarisèrent	1	commettras	1					
+dégages	1	convertirait	1					
+ressemblerais	1	cosmopolite	1					
+cérémoniels	1	entremetteuse	1					
+commerçant	1	compléterez	1					
+protagoniste	1	nourrirai	1					
+excuserais	1	séjournions	1					
+cuirait	1	dandy	1					
+appliquerions	1	accéderait	1					
+haussera	1	dépeignis	1					
+habituais	1	parleriez	1					
+banquier	1	secourrait	1					
+traiterions	1	tendrais	1					
+imprimai	1	aviserais	1					
+signiez	1	toucheras	1					
+géniteur	1	souhaiteriez	1					
+marchandai	1	boirait	1					
+rachèterai	1	imprimai	1					
+autorisiez	1	vêtirent	1					
+surveilles	1	appelleras	1					
+intéressiez	1	souviendras	1					
+		mépriserait	0					
+		accrochera	0					
+		démentirait	0					
+		gifle	0					
+		défierai	0					
+		apostasie	0					
+		éblouirent	0					
+		risquais	0					
+		empiéta	0					
+		sosies	0					
+		détestes	0					
+		défiera	0					
+		insurgerait	0					
+		voudrait	0					
+		niais	0					
+		posséderas	0					
+		caricaturer	0					
+		infidele	0					
+		confondiez	0					
+		gribouiller	0					
+		haïrez	0					
+		élingue	0					
+		maudissions	0					
+		possédai	0					
+		confisquerait	0					
+		jetâtes	0					
+		détestera	0					
+		souteneur	0					
+		lasserais	0					
+		couperas	0					
+		dérouta	0					
+		dérouterait	0					
+		charnel	0					
+		déroberai	0					
+		résistes	0					
+		interrogiez	0					
+		crieras	0					
+		inhumait	0					
+		échapperas	0					
+		tâtonnait	0					
+		bazars	0					
+		exposâmes	0					
+		rejettes	0					
+		captif	0					
+		tituber	0					
+		rejetâmes	0					
+		déniera	0					
+		repentirait	0					
+		chargeas	0					
+		rougirai	0					
+		protesterais	0					
+		baiserait	1					
+		repartirai	1					
+		concevrions	1					
+		transposez	1					
+		avalerais	1					
+		totem	1					
+		assisterais	1					
+		patriarcaux	1					
+		récupéra	1					
+		béniras	1					
+		annotes	1					
+		transplanta	1					
+		incarna	1					
+		empochait	1					
+		soldat	1					
+		incarnera	1					
+		respecterais	1					
+		transformerons	1					
+		narrait	1					
+		fabriquerait	1					
+		personnage	1					
+		purifia	1					
+		foulerai	1					
+		adepte	1					
+		simplifiaient	1					
+		troquerait	1					
+		ajoutâmes	1					
+		convoiteras	1					
+		conduiras	1					
+		donneuse	1					
+		imprimiez	1					
+		assurerais	1					
+		lèveriez	1					
+		débattirent	1					
+		massai	1					
+		rognera	1					
+		ressentirions	1					
+		secourait	1					
+		paganisme	1					
